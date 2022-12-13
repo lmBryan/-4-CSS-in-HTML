@@ -1,0 +1,28 @@
+.div1{
+    background-color: rgb(187, 221, 250);
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    color: blue;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-left: 220px;
+    margin-right: 220px;    
+}
+
+
+#s1{
+    color: red;
+}
+
+
+
+
+.plata{
+    background-color: gray;
+}
+
+p{
+    text-align: center;
+}
